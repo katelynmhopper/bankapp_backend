@@ -1,0 +1,14 @@
+API Documentation for Banking Application- 
+
+To get started with this app you will want to clone the github repo using git clone (then the repo) 
+  -for more info you can check out this site https://git-scm.com/docs/git-clone
+  
+After you have cloned the repo you will need to cd into your project folder and then run npm install. NPM install should then install the express API which will alloy you to access our api routes. 
+
+Then to setup a database to connect to you will need to open up Studio3T and click on connect. Then new connection leave the url blank and click next, after that you will need to put the connection name. 
+If you are cloning this repo and using this code not your own you will need to name it bank-customers and you can leave the localhost port as a default. 
+
+To get your project running in your project root you will need to run nodemon index1.js if you want anychanges you make to automatically update or if not you can run node index1.js
+
+
+For help with Express check out their doccumentation here: https://expressjs.com/en/5x/api.html
